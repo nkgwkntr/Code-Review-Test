@@ -1,0 +1,5 @@
+ls
+ls -a
+find .. -name AGENTS.md -print
+rg -n "ensure_tracking_workbook" analysis/source_snippet.py
+nl -ba analysis/source_snippet.py
